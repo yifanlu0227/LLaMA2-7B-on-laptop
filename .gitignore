@@ -30,3 +30,5 @@ demo
 profile_*
 !profile_*.cc
 libtorch/
+*.o
+transformer/chat
